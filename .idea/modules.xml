@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/clouddemo.iml" filepath="$PROJECT_DIR$/clouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server-git/config-server-git.iml" filepath="$PROJECT_DIR$/config-server-git/config-server-git.iml" />
       <module fileurl="file://$PROJECT_DIR$/consul-client/consul-client.iml" filepath="$PROJECT_DIR$/consul-client/consul-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client/eureka-client.iml" filepath="$PROJECT_DIR$/eureka-client/eureka-client.iml" />
       <module fileurl="file://$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" filepath="$PROJECT_DIR$/eureka-client-2/eureka-client-2.iml" />

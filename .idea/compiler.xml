@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="clouddemo" />
+        <module name="config-server-git" />
         <module name="consul-client" />
         <module name="eureka-client" />
         <module name="eureka-client-2" />
@@ -18,6 +19,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="clouddemo" target="1.5" />
+      <module name="config-server-git" target="1.8" />
       <module name="consul-client" target="1.8" />
       <module name="eureka-client" target="1.8" />
       <module name="eureka-client-2" target="1.8" />
